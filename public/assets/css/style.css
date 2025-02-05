@@ -358,3 +358,10 @@ footer {
     color: rgb(98, 8, 41);
     text-shadow: 9px 4px 14px #7b138d68, -8px -5px 14px #8652da75;
 }
+
+#florence {
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+  font-weight: 800;
+  font-size: x-large;
+  color: #ed1e89;
+}
